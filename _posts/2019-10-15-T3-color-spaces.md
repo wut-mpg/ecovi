@@ -2,7 +2,7 @@
 layout: task
 title: Region labelling
 category: lab
-lab: 1
+lab: -1
 task: 3
 brief: Homogeneous region detection
 ---

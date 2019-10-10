@@ -80,8 +80,12 @@ analyze the results (reprojection errors) and observe difference between
 original and undistorted pictures. 
 
 Look at the final intrinsic parameters (export camera params) and compare 
-results (mainly focal length and image center) for different lens settings.
-Work with three data sets:
+results (mainly focal length and image center) for different settings.
+
+Use your phone to acquire calibration photos. When taking pictures, 
+to get most consistent results it is recommended to use manual mode
+(autofocus should be disabled). You can also use one of those
+data sets gathered beforehand:
 
 | Narrow angle | Medium angle | Wide angle |
 |-------|--------|---------|
