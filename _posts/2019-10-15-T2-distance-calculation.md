@@ -26,4 +26,4 @@ Use camera intrinsic parameters to calculate distance to test object.
 **Note**: In this task you are working with line lengths, not absolute object coordinates.
 To get final equation for distance (*Z*) you have to modify intrinsic equations appropriately.
 
-To measure pixel size of the object use `imtool` (available also as `Image viewer` in `Apps`.
+To measure pixel size of the object use `imtool` (available also as `Image viewer` in `Apps`).
