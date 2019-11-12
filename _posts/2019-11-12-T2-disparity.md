@@ -91,3 +91,7 @@ view(player3D, ptCloud);
 
 ![]({{site.baseurl}}/public/l3/disparity_2.jpg)
 ![]({{site.baseurl}}/public/l3/3d_2.jpg)
+
+## Solutions
+
+Send your solutions [here](https://cloud.robotyka.ia.pw.edu.pl/index.php/s/giET878dptyebkP) (just one file: SURNAME_NAME_T3.m).
